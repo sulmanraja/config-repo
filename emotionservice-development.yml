@@ -1,5 +1,5 @@
 emotionservice:
-  description: This service retrieves info from Microsoft Cognitive API
+  description: This service retrieves info from Microsoft Cognitive APIx
   name: Emotion Service - Microsoft Cognitive API
   emotionserviceuri: https://westus.api.cognitive.microsoft.com/emotion/v1.0/recognize?
   clientkey: 3132f26e51c3440f98297edd035cc0dd
