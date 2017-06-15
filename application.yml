@@ -7,7 +7,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
       
 CognitiveService: This is the Cognitive service sraja@travelers.com
-description: This service retrieves info from Microsoft Cognitive API
+description: This service retrieves info from Microsoft Cognitive APIv
 name: Cognitive Service - Microsoft Cognitive API
 CognitiveServiceuri: https://westus.api.cognitive.microsoft.com/emotion/v1.0/recognize?
 clientkey: 3132f26e51c3440f98297edd035cc0dd
